@@ -1,0 +1,20 @@
+[
+    {
+      "error_type": "要素关系表示错误",
+      "error_category": "要素关系",
+      "severity": "高",
+      "description": "居民地与单线表示的河流沟渠重叠",
+      "solution": "居民地位于单线表示的河流沟渠符号一侧时应间隔0.2mm",
+      "image_before_url": "F:/local_server/ai_mapcheck/error_examples/error1_before.png",
+      "image_after_url": "F:/local_server/ai_mapcheck/error_examples/error1_after.png"
+    },
+    {
+      "error_type": "要素关系表示错误",
+      "error_category": "要素关系",
+      "severity": "中",
+      "description": "大车路不应该断在植被两端，形成断头路",
+      "solution": "大车路遇到植被，应该通过",
+      "image_before_url": "F:/local_server/ai_mapcheck/error_examples/error2_before.png",
+      "image_after_url": "F:/local_server/ai_mapcheck/error_examples/error2_after.png"
+    }
+]

@@ -1,0 +1,12 @@
+CairoSVG==2.7.1
+fitz==0.0.1.dev2
+Flask==3.1.0
+flask_cors==5.0.1
+Flask_JWT_Extended==4.7.1
+mysql_connector_repackaged==0.3.1
+numpy==2.2.4
+opencv_python==4.11.0.86
+Pillow==11.2.1
+python_bcrypt==0.3.2
+ultralytics==8.3.107
+Werkzeug==3.1.3
